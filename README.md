@@ -126,36 +126,36 @@ The following are the initial parameters:
 ## High number of hunters & low harvest probability
 The following are the initial parameters:
 
-![alt text](file:data_collection/hunt+_prob-.png)
+![alt text](data_collection/hunt+_prob-.png)
 
 
 ## Low number of hunters & high harvest probability
 The following are the initial parameters:
 
-![alt text](file:data_collection/hunt-_prob+.png)
+![alt text](data_collection/hunt-_prob+.png)
 
 
 ## Low number of hunters & low harvest probability
 The following are the initial parameters:
 
-![alt text](file:data_collection/hunt-_prob-.png)
+![alt text](data_collection/hunt-_prob-.png)
 
 
 ## Visual representation of the data collected:
 ### Effect on deer population:
 The following graphs illustrate the data collected from multiple runs (each color represents a different run):
 
-![alt text](file:data_collection/population.png)
+![alt text](data_collection/population.png)
 
 ### Effect on deer involved in vehicular accidents:
 The following graphs illustrate the data collected from multiple runs (each color represents a different run):
 
-![alt text](file:data_collection/hit.png)
+![alt text](data_collection/hit.png)
 
 ### Effect on number of deer harvested:
 The following graphs illustrate the data collected from multiple runs (each color represents a different run):
 
-![alt text](file:data_collection/harvest.png)
+![alt text](data_collection/harvest.png)
 
 # 4. Verification and Validation of Model 
 ## Verification
@@ -177,15 +177,15 @@ As it is difficult to evaluate the microvalidation of the model, I will be focus
 ### Data gathered:
 The following data was gathered from the Pennsylvania Game Commission, "Pennsylvania 2020-21 Deer Harvest Estimates" [2]:
 
-![alt text](file:images/deer_harvest_report.png)
+![alt text](images/deer_harvest_report.png)
 
 The following data was gathered from PennState College of Agricultral Sciences [3] and WildLife Informer [4]:
 
-![alt text](file:images/deer_population_report.png)
+![alt text](images/deer_population_report.png)
 
 The following data was gathered from Wikipedia page called "Pennsylvania" [5] and Pennsylvania Department of Transportation [6,7] :
 
-![alt text](file:images/street_report.png)
+![alt text](images/street_report.png)
 
 According to the Pennsylvania Game Commision, the hunting season for 2019-2020 was November 30th to December 14th, and for 2020-2021 was November 28th to December 12th [8,9]. 
 
@@ -238,15 +238,15 @@ The following is a table of the results:
 
 The following graph compares deer population growth simulated for 2019-2020 and 2020-2021:
 
-![alt text](file:images/model_result_pop.png)
+![alt text](images/model_result_pop.png)
 
 The following compares the simulated number of deer involved in vehicular accidents in 2019-2020 and 2020-2021 and the true number gathered from Pennsylvania data:
 
-![alt text](file:images/model_result_hit.png)
+![alt text](images/model_result_hit.png)
 
 The following compares the simulated number of harvested deer in 2019-2020 and 2020-2021 and the true number from Pennsylvania data:
 
-![alt text](file:images/model_result_har.png)
+![alt text](images/model_result_har.png)
 
 As can be seen above, the simulation has fairly well predicted the true values. This indicates that the simulation could be applied to other states or even countries. It could valuable insights on how different parameters and their values, affect deer population, number of harvested deer, and the number of deer involved in vehicular accidents. 
 
