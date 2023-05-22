@@ -234,7 +234,7 @@ Note that the inputted deer population parameter is from the results of the end 
 
 The following is a table of the results:
 
-![alt text](file:images/model_results.png)
+![alt text](images/model_results.png)
 
 The following graph compares deer population growth simulated for 2019-2020 and 2020-2021:
 
