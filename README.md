@@ -1,4 +1,6 @@
-As part of COM2014 Computational Intelligence module at the University of Exeter, the task of making an agent-based model using Netlogo was given. The following can be found in the INFO tab of the Netlogo project:  
+I decided to make a deer simulation using Netlogo as part of my COM2014 Computational Intelligence module at the University of Exeter agent-based modelling assignment. 
+
+The following can also be found in the INFO tab in "deer_simulation.nlogo":  
 
 # 1. Model Design
 ## 1.1 Driving Question
