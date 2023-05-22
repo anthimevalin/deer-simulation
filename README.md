@@ -120,7 +120,7 @@ The parameter for the number of hunters and harvest probability was altered 4 ti
 ## High number of hunters & high harvest probability
 The following are the initial parameters:
 
-![alt text](file:data_collection/hunt+_prob+.png)
+![alt text](/images/data_collection/hunt+_prob+.png)
 
 
 ## High number of hunters & low harvest probability
