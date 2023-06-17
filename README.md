@@ -1,4 +1,4 @@
-A deer population simulation using Netlogo, as part of my COM2014 Computational Intelligence module at the University of Exeter agent-based modelling assignment. 
+A deer population simulation using Netlogo. Agent-based modelling assignment for COM2014 Computational Intelligence, University of Exeter. 
 
 The following can also be found in the INFO tab in "deer_simulation.nlogo":  
 
